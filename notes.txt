@@ -1,0 +1,5 @@
+1. crear una variable que guarde nombre de lista de Música
+2. crear una variable que guarde nombre de album
+3. crear una variable que guarde nombre de una canción
+4. crear una variable que guarde nombre de autor de canciones
+5. mostrar todos los datos guardados en las variables
